@@ -1,0 +1,79 @@
+apiVersion: v1
+entries:
+  tdengine:
+  - apiVersion: v2
+    appVersion: 3.0.2.2
+    created: "2025-01-28T16:42:33.315987+02:00"
+    description: TDengine Cluster Chart for Kubenetes
+    digest: d97be32320d8c38ca0946fc070817a1cb67c18cc646ede3b4112e7820e90eaa3
+    icon: https://www.taosdata.com/images/taosdata-logo.png
+    maintainers:
+    - email: linhe.huo@gmail.com
+      name: Huo Linhe
+      url: https://github.com/zitsen
+    name: tdengine
+    type: application
+    urls:
+    - https://shay79il.github.io/TDengine-Operator/helm/tdengine-3.0.2.tgz
+    version: 3.0.2
+  - apiVersion: v2
+    appVersion: 3.0.0.0
+    created: "2025-01-28T16:42:33.315579+02:00"
+    description: TDengine Cluster Chart for Kubenetes
+    digest: dd9611a0886ec3eaa50fd4ec39f62dbe6749922e1fe3882c115449dfd34d6842
+    icon: https://www.taosdata.com/images/taosdata-logo.png
+    maintainers:
+    - email: linhe.huo@gmail.com
+      name: Huo Linhe
+      url: https://github.com/zitsen
+    name: tdengine
+    type: application
+    urls:
+    - https://shay79il.github.io/TDengine-Operator/helm/tdengine-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v2
+    appVersion: 2.4.0.18
+    created: "2025-01-28T16:42:33.315126+02:00"
+    description: TDengine Cluster Chart for Kubenetes
+    digest: 48e8fc796ec61a6269f450b772927768ff930ad4faed3921bfaff283c3bc6c62
+    icon: https://www.taosdata.com/images/taosdata-logo.png
+    maintainers:
+    - email: linhe.huo@gmail.com
+      name: Huo Linhe
+      url: https://github.com/zitsen
+    name: tdengine
+    type: application
+    urls:
+    - https://shay79il.github.io/TDengine-Operator/helm/tdengine-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 2.2.2.10
+    created: "2025-01-28T16:42:33.314635+02:00"
+    description: TDengine Cluster Chart for Kubenetes
+    digest: fa1d792e15defddc0b3130d2ac933c76097706589233f7bb22cfec1e0b6eefd8
+    icon: https://www.taosdata.com/images/taosdata-logo.png
+    maintainers:
+    - email: linhe.huo@gmail.com
+      name: Huo Linhe
+      url: https://github.com/zitsen
+    name: tdengine
+    type: application
+    urls:
+    - https://shay79il.github.io/TDengine-Operator/helm/tdengine-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 2.2.1.1
+    created: "2025-01-28T16:42:33.3141+02:00"
+    description: TDengine Cluster Chart for Kubenetes
+    digest: c5d04361ab340af187a39fc0347eb6bf3f172e797a859638cd1e8d70d10152e5
+    icon: https://www.taosdata.com/images/taosdata-logo.png
+    maintainers:
+    - email: linhe.huo@gmail.com
+      name: Huo Linhe
+      url: https://github.com/zitsen
+    name: tdengine
+    type: application
+    urls:
+    - https://shay79il.github.io/TDengine-Operator/helm/tdengine-0.2.0.tgz
+    version: 0.2.0
+generated: "2025-01-28T16:42:33.312975+02:00"
